@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ZELDE]]></title>
         <description><![CDATA[ZELDE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zelde/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 16:43:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 16:44:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zelde/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static2.therichestimages.com/cdn/900/1200/90/cw/wp-content/uploads/2014/02/biennale-harry-winston-sapphire_and_diamond_cascading_drop_necklace.jpg">]]></description>
+            <link>https://thegrid.ai/zelde/ab219289-1025-4b37-be7f-8322ec5e8015/index.html</link>
+            <guid isPermaLink="false">ab219289-1025-4b37-be7f-8322ec5e8015</guid>
+            <pubDate>Tue, 29 Mar 2016 16:43:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://static1.therichestimages.com/cdn/950/500/90/c/wp-content/uploads/2014/02/d31f14c8529f4d4da71ac082c8dd6e11-950x6621.png">]]></description>
-            <link>undefinedd54d7037-3596-4bc7-9461-9b590e0ccf6a/index.html</link>
+            <link>https://thegrid.ai/zelde/d54d7037-3596-4bc7-9461-9b590e0ccf6a/index.html</link>
             <guid isPermaLink="false">d54d7037-3596-4bc7-9461-9b590e0ccf6a</guid>
             <pubDate>Tue, 29 Mar 2016 16:43:55 GMT</pubDate>
         </item>
