@@ -1,0 +1,28 @@
+name: ZELDE
+favicon: null
+layout_spectrum: 0.9713578657247126
+typography_spectrum: 0.5497195043135434
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5950570062268525
+  lightness: 0.8485935025382787
+  saturation: 0.18796050525270402
+  rhythmicContrast: 0.11194674903526902
+purpose: []
