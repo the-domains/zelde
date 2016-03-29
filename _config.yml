@@ -2,12 +2,13 @@ name: ZELDE
 favicon: null
 layout_spectrum: 0.9713578657247126
 typography_spectrum: 0.5497195043135434
+title: Zekd
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75705461-1
   facebook: null
   twitter: null
 opengraph:
